@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/auravoid/auravoid/output/github-metrics.svg" alt="Metrics">
+<img src="https://raw.githubusercontent.com/auravoid/auravoid/dist/github-metrics.svg" alt="Metrics">
 
 <hr />
 
