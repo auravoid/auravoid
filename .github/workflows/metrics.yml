@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           output_action: commit
-          committer_branch: output
+          committer_branch: dist
           committer_message: "[Skip CI] Updating Metrics Picture"
 
           # Options
