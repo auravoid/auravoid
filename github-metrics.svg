@@ -307,22 +307,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 52.55199999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 52.632000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">66%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Astro</span>
-                                <div class="bar" style="width: 14.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XML</span>
-                                <div class="bar" style="width: 4.736000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 2.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
@@ -819,7 +819,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 19:20:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2024, 01:06:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
