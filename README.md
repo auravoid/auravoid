@@ -1,16 +1,32 @@
-# Hi there, I'm Jason
- 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=facade&center=true&vCenter=true&width=600&lines=Confidently+Cruising+Creatively;Open+Source+Enthusiast;" alt="Confidently cruising creatively; Open source enthusiast." />
-</div>
+# Hi there, I'm auravoid 👋
 
-## Featured Projects
+A student on the east coast of the United States, passionate about cybersecurity, software development, and technology. 
 
-<div align="center">
-<a href="https://github.com/auravoid/ai-ohto">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=auravoid&repo=ai-ohto"/>
-</a>
-<a href="https://github.com/auravoid/fun-responses">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=auravoid&repo=fun-responses"/>
-</a>
-</div>
+---
+
+### Projects & Applications I've Built
+
+* 🔗 **[short-it](https://github.com/auravoid/short-it)**
+    * A minimal self-hosted URL shortener written in Go using bbolt (BoltDB), focused on simplicity and low overhead. *(Go)*
+* 🎉 **[fun-responses](https://github.com/auravoid/fun-responses)**
+    * A lightweight API service that provides playful endpoints. *(TypeScript)*
+* 📊 **[discord-relationship-visualizer](https://github.com/auravoid/discord-relationship-visualizer)**
+    * A toolkit for mapping Discord social graphs using profile, guild, and mutual-connection data visualizations. *(Python)*
+
+---
+
+### Interests & Hobbies
+
+**Currently Gaming:**
+* DOOM Eternal
+* Cult of the Lamb
+* Risk of Rain 2
+* HITMAN World of Assassination
+* Arc Raiders
+
+**Currently Listening To:**
+* Panic! At The Disco
+* Eminem
+* Bailey Zimmerman
+* MARINA
+* Paramore
